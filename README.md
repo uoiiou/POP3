@@ -1,2 +1,2 @@
-# POP3Java
+# POP3
 POP3 with UI
